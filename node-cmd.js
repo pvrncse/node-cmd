@@ -1,4 +1,4 @@
-var cmd=require('node-cmd');
+//var cmd=require('node-cmd');
  
     /*cmd.get(
         'pwd',
